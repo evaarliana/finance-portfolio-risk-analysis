@@ -126,7 +126,7 @@ The interactive dashboard focuses on portfolio health and risk concentration, in
 - Grade contribution within the identified risk segment
 - TKB30 by grade and loan amount
 
-![Finance Portfolio & Risk Dashboard](./dashboard/dashboard.png)
+![Finance Portfolio & Risk Dashboard](./dashboard/Credit%20Risk%20Portfolio%20Dashboard.png)
 ---
 
 ## Data Limitation
