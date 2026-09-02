@@ -6,6 +6,8 @@ This project analyzes a lending portfolio to assess portfolio health, identify r
 
 The analysis focuses on cohort performance, delinquent exposure, and loan-level risk characteristics to support data-driven lending and risk management decisions.
 
+**Project Duration:** August 2026 - August 2026
+
 ---
 
 ## Business Problem
